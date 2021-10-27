@@ -1,6 +1,8 @@
-# wordpair_generator
+# word-pair-generator-app
+Simple Flutter app that generates random pairs of words, allowing the user to save their favourite ones. Based on [YouTube tutorial from Traversy Media](https://www.youtube.com/watch?v=1gDhl4leEzA&ab_channel=TraversyMedia 'Traversy Media YouTube tutorial').
 
-A new Flutter project.
+<img src='https://user-images.githubusercontent.com/56090238/139106059-ff3ce0f6-1998-41a6-9df9-017ba411adf4.png' alt='Screenshot of randomly generated word pairs' width='200'><img src='https://user-images.githubusercontent.com/56090238/139106345-2d91f386-6774-4e75-88ec-e7cfbd01b062.png' alt='Screenshot of saved word pairs' width='200'>
+
 
 ## Getting Started
 
